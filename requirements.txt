@@ -1,5 +1,6 @@
 flask
+gunicorn
 deepface
 opencv-python
 numpy
-tf-keras
+tensorflow
