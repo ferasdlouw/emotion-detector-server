@@ -3,6 +3,5 @@ gunicorn
 deepface
 opencv-python
 numpy
-tensorflow==2.15.0
+tensorflow
 tf-keras
-
